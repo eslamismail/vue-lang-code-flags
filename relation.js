@@ -1,6 +1,6 @@
 export default {
   am: "et",
-  ar: "eg",
+  ar: "sa",
   az: "az",
   bn: "bd",
   be: "by",
